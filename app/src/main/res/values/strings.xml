@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigasiBottom</string>
+    <string name="buku">Buku</string>
+    <string name="musik">Musik</string>
+    <string name="film">Film</string>
+    <string name="vidio">Vidio</string>
+    <string name="foto">Foto</string>
+    <string name="fragment_buku">FragmentBuku</string>
+    <string name="fragment_musik">FragmentMusik</string>
+    <string name="fragment_film">FragmentFilm</string>
+    <string name="fragment_vidio">FragmentVidio</string>
+    <string name="fragment_foto">FragmentFoto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
